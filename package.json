@@ -8,6 +8,6 @@
         "changeset:version": "./node_modules/.bin/changeset version && script/version"
     },
     "devDependencies": {
-        "@changesets/cli": "^2.27.1"
+        "@changesets/cli": "^2.29.7"
     }
 }
